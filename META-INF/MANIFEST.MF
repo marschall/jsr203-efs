@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: %plugin.name
+Bundle-SymbolicName: com.github.marschall.jsr203-efs;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: %plugin.provider
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-Localization: plugin
+Bundle-ActivationPolicy: lazy
